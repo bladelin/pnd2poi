@@ -1,5 +1,8 @@
 # pnd2poi
 Convert binary code in PHP
+
+老東西，用php來做c的事情，用在那裡不重要了，提供給朋友做binary轉換參考 
+
 ```
 <?php
 include("PndParser.php");
